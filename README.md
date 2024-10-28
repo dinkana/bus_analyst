@@ -3,7 +3,7 @@
 
 ## Первое тестовое задание
 
-Ссылка: https://github.com/dinkana/bus_analyst/blob/main/test_ba.pdf
+Ссылка: https://github.com/dinkana/bus_analyst/blob/main/README.md
 
 В прикрепленном файле **test_ba.pdf** - показано выполненное задание по условиям:
 
