@@ -1,5 +1,5 @@
 # Резюме
-🔗 [Ссылка](https://github.com/dinkana/bus_analyst/blob/main/resume.md)
+🔗 [Ссылка](https://github.com/dinkana/bus_analyst/blob/main/cv.md)
 
 # Тестовые задания на вакансию "Бизнес-аналитик"
 
